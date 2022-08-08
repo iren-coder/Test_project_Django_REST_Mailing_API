@@ -40,6 +40,7 @@ python manage.py migrate
 7. Поместите в корневую папку с проектом файл .env
 
    Структура файла .env:
+   
     PROBE_SERVER_URL=https://probe.fbrq.cloud/v1/send/
 
     PROBE_SERVER_TOKEN=very_secret_token
